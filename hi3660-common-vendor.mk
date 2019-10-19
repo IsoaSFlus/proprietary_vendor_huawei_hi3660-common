@@ -34,7 +34,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/hi3660-common/proprietary/lib64/libaptXHD_encoder.so:system/lib64/libaptXHD_encoder.so \
     vendor/huawei/hi3660-common/proprietary/lib64/libaptX_encoder.so:system/lib64/libaptX_encoder.so
 
-PRODUCT_PACKAGES += \
-    HotwordEnrollmentOKGoogleHI6403 \
-    HotwordEnrollmentXGoogleHI6403 \
-    chargeonlymode
+#PRODUCT_PACKAGES += \
+#    HotwordEnrollmentOKGoogleHI6403 \
+#    HotwordEnrollmentXGoogleHI6403 \
+#    chargeonlymode
